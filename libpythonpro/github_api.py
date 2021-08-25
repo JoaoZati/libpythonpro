@@ -1,5 +1,8 @@
 import requests
 
+
+
+
 #teste Pull Request
 #Teste Criando
 def buscar_avatar(usuario):
